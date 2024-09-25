@@ -17,4 +17,12 @@ Python is a dynamic language.
 2. Web Development (Flask, Django, FastAPI)
 3. DevOps / Cloud Engineering / Automation
 
-## Syntax
+## Syntax≠
+
+1. Data types
+2. Data structures
+3. Functions
+4. OOP languages have Classes
+5. Comments and formatting rules
+6. Modules: Import and Export rules
+7. Dependencies: external modules
