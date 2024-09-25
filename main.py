@@ -1,3 +1,1 @@
-
-
-print("hello")
+print("hello, are you Mac's friend")
